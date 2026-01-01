@@ -27,6 +27,6 @@ Managers in player selection
 Teams in benchmarking & improvement
 
 #Example:
-How Dashboard look like Example:
+How Dashboard look like Example: (https://github.com/omkindre-lgtm/Sports-Analytics-Player-Team-Performance/blob/main/Sports%20Dhshboard.png)
 
 
