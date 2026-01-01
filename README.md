@@ -26,4 +26,7 @@ Coaches in strategy planning
 Managers in player selection
 Teams in benchmarking & improvement
 
+#Example:
+How Dashboard look like Example:
+
 
